@@ -1,0 +1,4 @@
+.centerdiv {
+    display: flex;
+    justify-content: center;
+}
